@@ -1,0 +1,15 @@
+D:\Vs2019\Student_1\bin\Debug\Student_1.exe.config
+D:\Vs2019\Student_1\bin\Debug\Student_1.exe
+D:\Vs2019\Student_1\bin\Debug\Student_1.pdb
+D:\Vs2019\Student_1\obj\Debug\Student_1.csprojAssemblyReference.cache
+D:\Vs2019\Student_1\obj\Debug\Student_1.Form1.resources
+D:\Vs2019\Student_1\obj\Debug\Student_1.Properties.Resources.resources
+D:\Vs2019\Student_1\obj\Debug\Student_1.csproj.GenerateResource.cache
+D:\Vs2019\Student_1\obj\Debug\Student_1.csproj.CoreCompileInputs.cache
+D:\Vs2019\Student_1\obj\Debug\Student_1.exe
+D:\Vs2019\Student_1\obj\Debug\Student_1.pdb
+D:\Vs2019\Student_1\obj\Debug\Student_1.Form2.resources
+D:\Vs2019\Student_1\obj\Debug\Student_1.Form3.resources
+D:\Vs2019\Student_1\obj\Debug\Student_1.Form4.resources
+D:\Vs2019\Student_1\obj\Debug\Student_1.Form5.resources
+D:\Vs2019\Student_1\obj\Debug\Student_1.Form6.resources
